@@ -1,14 +1,12 @@
 <div align="center">
-
-<img src="https://github.com/dntaskmehow/STORM-WORM/banner-logo.png" alt="STORM-WORM logo" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=CC00FF&center=true&vCenter=true&width=700&lines=Researcher+dontaskmehow;Supply-Chain+Worm+Framework" alt="DOMONO banner" />
-
-[![Status](https://img.shields.io/badge/Status-Research-red)](https://github.com/dntaskmehow/DOMONO)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20IoT-00F5FF)](https://github.com/dntaskmehow/DOMONO)
-[![Stack](https://img.shields.io/badge/Stack-Go%20%2B%20Rust-FFA500)](https://github.com/dntaskmehow/DOMONO)
-
+  <img src="https://raw.githubusercontent.com/dntaskmehow/STORM-WORM/main/banner-logo.png" alt="STORM-WORM logo" width="700" />
 </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=CC00FF&center=true&vCenter=true&width=700&lines=Researcher+dontaskmehow;Supply-Chain+Worm+Framework" alt="STORM-WORM banner" />
+
+[![Status](https://img.shields.io/badge/Status-Research-red)](https://github.com/dntaskmehow/STORM-WORM)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS%20%7C%20IoT-00F5FF)](https://github.com/dntaskmehow/STORM-WORM)
+[![Stack](https://img.shields.io/badge/Stack-Go%20%2B%20Rust-FFA500)](https://github.com/dntaskmehow/STORM-WORM)
 
 `STORM-WORM` is a zero-day supply-chain worm framework written in Rust, designed to model self-replicating malicious behavior at the kernel boundary through a stealth-focused, persistence-heavy execution chain.
 
