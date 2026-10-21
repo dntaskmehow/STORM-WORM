@@ -1,6 +1,6 @@
 <div align="center">
 
-# STORM WORM
+<img src="./assets/storm-worm-logo.png" alt="STORM-WORM logo" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=CC00FF&center=true&vCenter=true&width=700&lines=Researcher+dontaskmehow;Supply-Chain+Worm+Framework" alt="DOMONO banner" />
 
@@ -91,8 +91,17 @@ Optional debug build:
 
 ```bash
 cargo run
+
 ```
 
+**Example runtime flow**
+
+```bash
+git clone https://github.com/dntaskmehow/STORM-WORM.git
+cd STORM-WORM
+cargo build --release
+./target/release/storm_worm
+```
 ---
 
 *DISCLAIMER* ⚠️
